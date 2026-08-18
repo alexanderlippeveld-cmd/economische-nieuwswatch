@@ -1,0 +1,9 @@
+[
+  {"name":"VRT NWS Economie","url":"https://www.vrt.be/vrtnws/nl.rss.articles.xml","region":"BE","paywall":false},
+  {"name":"ECB Press releases","url":"https://www.ecb.europa.eu/rss/press.html","region":"EU","paywall":false},
+  {"name":"European Commission Economy","url":"https://ec.europa.eu/commission/presscorner/api/rss?language=en&policyArea=1008","region":"EU","paywall":false},
+  {"name":"IMF News","url":"https://www.imf.org/en/News/RSS","region":"INT","paywall":false},
+  {"name":"OECD Newsroom","url":"https://www.oecd.org/newsroom/rss.xml","region":"INT","paywall":false},
+  {"name":"The Guardian Business","url":"https://www.theguardian.com/uk/business/rss","region":"INT","paywall":false},
+  {"name":"NRC Economie","url":"https://www.nrc.nl/rss/economie/","region":"NL","paywall":true}
+]

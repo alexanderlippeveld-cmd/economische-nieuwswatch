@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T06:15:00+00:00",
+  "top": [
+    "Start de GitHub Action om actuele feedartikels op te halen."
+  ],
+  "articles": [],
+  "errors": [],
+  "stats": {
+    "articles": 0,
+    "sources_ok": 0,
+    "sources_total": 7
+  }
+}
