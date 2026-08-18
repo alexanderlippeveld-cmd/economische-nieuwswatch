@@ -1,16 +1,30 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T15:04:35.947508+00:00",
+  "generated_at": "2026-08-18T15:10:36.676674+00:00",
   "top": [
+    "Werken gestart op nieuw bedrijventerrein Evolis II in Harelbeke: \"Bedoeld voor grotere bedrijven\"",
     "Bredene opent duurzaam vakantiepark 'De Strandloper': \"Hedendaags comfort in een groene omgeving\"",
     "Belgische langetermijnrente gestegen tot hoogste niveau sinds 2012: wat betekent precies?",
     "Aalter start proefproject met middag zonder afspraak op recyclagepark",
     "Studentenvereniging KVHV-Gent overweegt gerechtelijke stappen na verwijderd Instagram-account",
     "UK risks running out of gas by 2030s, ministers told",
-    "1.000 balken en kilometers touw: sjorwerken aan scoutsdorp Druivenfeesten in Overijse schieten goed op",
     "BTS-leden onder vuur na bezoek aan concert van Chris Brown: \"Als vrouwelijke BTS-fan ben ik teleurgesteld\""
   ],
   "articles": [
+    {
+      "id": "8e29ec6a5bb68bd2",
+      "title": "Werken gestart op nieuw bedrijventerrein Evolis II in Harelbeke: \"Bedoeld voor grotere bedrijven\"",
+      "url": "https://vrtnws.be/p.kQG8BbZZY",
+      "source": "VRT NWS Economie",
+      "region": "BE",
+      "paywall": false,
+      "published_at": "2026-08-18T15:02:27+00:00",
+      "snippet": "De werken aan het nieuwe bedrijventerrein in Harelbeke, Evolis II, zijn gestart. Dat komt naast het andere bedrijventerrein Evolis I, op de grens van Harelbeke met Kortrijk en Zwevegem. Het is in totaal 20 hectare groot. De ruimtes starten vanaf 5.000 vierkante meter.",
+      "topic": "Arbeidsmarkt & sociaal",
+      "summary": "De werken aan het nieuwe bedrijventerrein in Harelbeke, Evolis II, zijn gestart. Dat komt naast het andere bedrijventerrein Evolis I, op de grens van Harelbeke met Kortrijk en Zwevegem.",
+      "why": "Belangrijk voor lonen, werkgelegenheid en het Belgische sociaal overleg.",
+      "keyword_matches": []
+    },
     {
       "id": "79b4e40c1250e42d",
       "title": "Bredene opent duurzaam vakantiepark 'De Strandloper': \"Hedendaags comfort in een groene omgeving\"",
@@ -727,20 +741,6 @@
       "topic": "Technologie",
       "summary": "In verschillende fertiliteitscentra hebben eiceldonoren zich spontaan aangemeld na de getuigenis van Ine. Zij vertelde afgelopen weekend aan VRT NWS dat haar kinderwens on hold stond, omdat donoren afhaken, mogelijk doordat de anonimiteit afgeschaft zal worden.",
       "why": "Technologische verschuivingen veranderen productiviteit, investeringen en banen.",
-      "keyword_matches": []
-    },
-    {
-      "id": "87884286ffeb45ad",
-      "title": "Zoo Antwerpen verwelkomt flamingokuikens Beau en Bliss: \"Nu nog spierwit\"",
-      "url": "https://vrtnws.be/p.XEXQ4p3ob",
-      "source": "VRT NWS Economie",
-      "region": "BE",
-      "paywall": false,
-      "published_at": "2026-08-18T09:26:21+00:00",
-      "snippet": "In de Zoo van Antwerpen zijn 2 Cubaanse flamingo's geboren. De donzige kuikens Beau en Bliss zien voorlopig nog spierwit, maar krijgen later hun roze kleur via de melk van hun ouders. \"De kuikens groeien als kool\", zegt verzorgster Heidi Van Soest.",
-      "topic": "Macro-economie & conjunctuur",
-      "summary": "In de Zoo van Antwerpen zijn 2 Cubaanse flamingo's geboren. De donzige kuikens Beau en Bliss zien voorlopig nog spierwit, maar krijgen later hun roze kleur via de melk van hun ouders.",
-      "why": "Relevant voor koopkracht, groei en de vooruitzichten voor Belgische ondernemingen.",
       "keyword_matches": []
     },
     {
